@@ -1,5 +1,5 @@
-# GITCODES
-Codigos do git e como usa-los 
+# GIT CODES FOR DEVELOPERS
+Codigos do git e como usa-los com a minha explicação fudid@
 
 
 
