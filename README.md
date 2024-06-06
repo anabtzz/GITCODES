@@ -1,4 +1,4 @@
-# GITCODES
+<center># GITCODES</center>
 Codigos do git e como usa-los 
 
 
