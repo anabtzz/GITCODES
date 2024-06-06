@@ -1,7 +1,7 @@
 # GITCODES
 Codigos do git e como usa-los 
 
-![1](https://github.com/anabtzz/GITCODES/assets/128055760/332d1b03-eb32-4341-adf8-8fb6cb19d15b)
+    ![1](https://github.com/anabtzz/GITCODES/assets/128055760/332d1b03-eb32-4341-adf8-8fb6cb19d15b)
 
     git config --global user.name ""
     git config --global user.email ""
