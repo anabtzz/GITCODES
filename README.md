@@ -1,5 +1,28 @@
 # GIT CODES FOR DEVELOPERS
 Codigos do git e como usa-los com a minha explicação fudid@
+### Tópicos 
+
+- [Logar](#1.)
+
+- [Iniciar repositorio](#2.)
+
+- [Adição](#3.)
+
+- [Status](#4.)
+  
+- [Status 2](#5.)
+
+- [Commit](#6.)
+
+- [Master-Main](#7.)
+
+- [Remote](#8.)
+  
+- [Origin](#9.)
+
+- [Origin Error](#10.)
+
+
 
 
 ## 1.
