@@ -2,7 +2,7 @@
 Codigos do git e como usa-los com a minha explicação fudid@
 
 
-###
+##1-
 ![1](https://github.com/anabtzz/GITCODES/assets/128055760/332d1b03-eb32-4341-adf8-8fb6cb19d15b)
 
     git config --global user.name ""
@@ -10,14 +10,14 @@ Codigos do git e como usa-los com a minha explicação fudid@
 
 
 Voce "loga" seu usuario ao git
-
+##2-
 ![2](https://github.com/anabtzz/GITCODES/assets/128055760/6624a83a-71eb-4dbd-8bc8-f4b526d4edb5)
 
     git init
 
 
 Inicial uma conexão com o git da pasta do projeto
-
+##3-
 ![3](https://github.com/anabtzz/GITCODES/assets/128055760/03d46665-3ef5-4b46-96f7-5068e18f5cc3)
 
     git add .
