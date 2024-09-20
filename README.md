@@ -21,6 +21,8 @@ Codigos do git e como usa-los com a minha explicação fudid@
 - [Origin](#9.)
 
 - [Origin Error](#10.)
+  
+- [Commitar modify's](#11.)
 
 
 
@@ -100,4 +102,15 @@ Um possivel erro que opde acontecer é dar esse problema, duas soluões sao vali
 
   Passar todos os arquivos para uma pasta nova;
   Dar um push forçado (não recomendado), porem se voce ja estiver feito a descrição e o titulo, tera que fazer de novo.
+## 11.
+![image](https://github.com/user-attachments/assets/ff473a93-d746-4d81-9b6e-00be8d7ca6ab)
+
+
+      git add.
+      git commit -am ""
+      git push
+
+
+Agora ja feito tudo isso como mandar uma modify que você fez no projeto (clone o repositorio no seu editor de preferencia para o passo a passo dar certo)
+
 
